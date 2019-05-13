@@ -7,7 +7,7 @@ h1, h2 {
     color: #1b4965;
 }
 
-.borderDiv {
+#header {
     border-style: solid;
     border-width: thick;
     border-color: #52796f;
